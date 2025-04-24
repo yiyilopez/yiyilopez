@@ -3,7 +3,6 @@
 <p align="center">
   🌍 Systems Engineering student | 📊 Aspiring Data Analyst <br>
   🎯 Learning Python, SQL, Power BI, and everything in between <br>
-  🚀 Building my first data portfolio — stay tuned!
 </p>
 
 ---

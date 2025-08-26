@@ -16,23 +16,5 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
-### 📚 What I'm Learning
-
-- 📈 Data Analysis with Python and SQL  
-- 📊 Power BI dashboards and data storytelling  
-- 💡 Google Data Analytics Professional Certificate  
-
-### 🔭 Goals for 2025
-
-- 🚧 Publish my first 2 data projects  
-- 💼 Land my first Data Analyst role  
-- ✈️ Connect my passion for systems, people, and global impact
-
-<a href="https://www.linkedin.com/in/yiyi-lopez/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:yiyilopez030@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contact%20me-red?style=flat&logo=gmail&logoColor=white" />
-</a>
 
 

@@ -2,9 +2,12 @@
 
 <p align="center">
   🌍 Systems Engineering student | 📊 Aspiring Data Analyst <br>
-  🎯 Learning Python, SQL, Power BI, and everything in between <br>
+  🎯 Learning Python, Java, SQL, Power BI, and everything in between <br>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yiyilopez&theme=swift)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiyilopez)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🧰 My Tools & Tech

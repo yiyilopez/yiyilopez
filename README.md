@@ -5,11 +5,12 @@
   🎯 Learning Python, Java, SQL, Power BI, and everything in between <br>
 </p>
 
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yiyilopez&theme=swift)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiyilopez)](https://github.com/anuraghazra/github-readme-stats)
 ---
-
+</p>
 ### 🧰 My Tools & Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
